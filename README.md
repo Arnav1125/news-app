@@ -28,7 +28,7 @@ Follow these instructions to set up and run the project locally.
 ### Installation
 
 1. Clone the repository
-
+https://github.com/Arnav1125/news-app
 
 
 
